@@ -4,5 +4,5 @@ compiler: 
  	- clang
  	- gcc
  script:
- 	- gcc -o code code.c
- 	- ./code
+ 	- gcc -o akshay akshay.c
+ 	- ./akshay
